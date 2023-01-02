@@ -12,7 +12,7 @@ build_property.RootNamespace = CleanArchMvc.WebUi
 build_property.ProjectDir = D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi
 build_property._RazorSourceGeneratorDebug = 
 

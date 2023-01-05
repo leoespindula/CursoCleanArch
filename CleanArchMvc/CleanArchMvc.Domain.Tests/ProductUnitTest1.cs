@@ -69,10 +69,18 @@ namespace CleanArchMvc.Domain.Tests
         [Fact]
         public void CreateProduct_InvalidPriceValue_DomainException()
         {
-            Action action = () => new Product(1, "Product name", "Product Name", -9.99m, 99, "");
+            Action action = () => new Product(1, "Product name", "Product Name", -9.99m, 99, "product image");
             action.Should()
                   .Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>()
                   .WithMessage("Invalid price value");
+        }
+
+        [Fact]
+        public void CreateProduct_WithNullImageName_NoNullReferenceException()
+        {
+            Action action = () => new Product(1, "Product name", "Product Name", 9.99m, 99, null);
+            action.Should()
+                  .NotThrow<NullReferenceException>();
         }
     }
 }

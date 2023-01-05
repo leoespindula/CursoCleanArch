@@ -11,7 +11,7 @@ namespace CleanArchMvc.Domain.Tests
         {
             Action action = () => new Category(1, "Category Name");
             action.Should()
-                .NotThrow<CleanArchMvc.Domain.Validation.DomainExceptionValidation>();
+                  .NotThrow<CleanArchMvc.Domain.Validation.DomainExceptionValidation>();
         }
 
         [Fact]
@@ -46,7 +46,7 @@ namespace CleanArchMvc.Domain.Tests
         {
             Action action = () => new Category(1, null);
             action.Should()
-                .Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>();
+                  .Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>();
         }
     }
-}
+} 

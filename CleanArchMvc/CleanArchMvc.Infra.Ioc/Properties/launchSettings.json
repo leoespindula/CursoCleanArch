@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CleanArchMvc.Infra.Ioc": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58680;http://localhost:58681"
+    }
+  }
+}

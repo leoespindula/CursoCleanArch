@@ -1,11 +1,6 @@
 ﻿using CleanArchMvc.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CleanArchMvc.Infra.Data.EntitiesConfiguration
 {
@@ -13,7 +8,7 @@ namespace CleanArchMvc.Infra.Data.EntitiesConfiguration
     {
         public void Configure(EntityTypeBuilder<Category> builder)
         {
-            builder.HasKey(t => t.Id);    
+            builder.HasKey(t => t.Id);
             builder.Property(p => p.Name).IsRequired().HasMaxLength(100);
 
             builder.HasData(
@@ -22,5 +17,5 @@ namespace CleanArchMvc.Infra.Data.EntitiesConfiguration
                 new Category(3, "Acessórios"));
         }
     }
-    
+
 }

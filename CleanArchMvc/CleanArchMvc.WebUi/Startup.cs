@@ -1,4 +1,6 @@
-﻿namespace CleanArchMvc.WebUi
+﻿using CleanArchMvc.Infra.Ioc;
+
+namespace CleanArchMvc.WebUi
 {
     public class Startup
     {
@@ -9,6 +11,7 @@
         public IConfiguration Configuration { get; }
         public void ConfigureServices(IServiceCollection services) 
         {
+            services.AddInfrastructure(Configuration);
             services.AddControllersWithViews();
         }
 

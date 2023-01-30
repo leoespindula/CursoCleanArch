@@ -410,3 +410,5 @@ D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Humaniz
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\System.CodeDom.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\AutoMapper.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

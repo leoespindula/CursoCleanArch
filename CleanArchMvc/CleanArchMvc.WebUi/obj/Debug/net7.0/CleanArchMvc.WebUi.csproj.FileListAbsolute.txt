@@ -414,3 +414,4 @@ D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\AutoMap
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\MediatR.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

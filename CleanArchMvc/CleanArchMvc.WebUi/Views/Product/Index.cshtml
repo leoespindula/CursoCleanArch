@@ -53,13 +53,13 @@
                         @Html.DisplayFor(modelItem => item.Price)
                     </td>
                     <td>
-                        <a asp-action="Edit" asp-route-id="item.Id" title="Editar" class="btn btn-warning">
+                        <a asp-action="Edit" asp-route-id="@item.Id" title="Editar" class="btn btn-warning">
                             <span class="fas fa-edit">Editar</span>
                         </a>
-                        <a asp-action="Details" asp-route-id="item.Id" title="Detalhes" class="btn btn-primary">
+                        <a asp-action="Details" asp-route-id="@item.Id" title="Detalhes" class="btn btn-primary">
                             <span class="fas fa-edit">Detalhes</span>
                         </a>
-                        <a asp-action="Delete" asp-route-id="item.Id" title="Deletar" class="btn btn-danger">
+                        <a asp-action="Delete" asp-route-id="@item.Id" title="Deletar" class="btn btn-danger">
                             <span class="fas fa-edit">Deletar</span>
                         </a>
                     </td>

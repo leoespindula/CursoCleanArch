@@ -1,4 +1,5 @@
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net7.0\CleanArchMvc.Infra.Ioc.deps.json
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net7.0\CleanArchMvc.Infra.Ioc.runtimeconfig.json
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net7.0\CleanArchMvc.Infra.Ioc.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net7.0\CleanArchMvc.Infra.Ioc.pdb
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net7.0\CleanArchMvc.Aplication.dll
@@ -16,6 +17,5 @@ D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net7.0\Cle
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net7.0\CleanArchMvc.Infra.Ioc.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net7.0\refint\CleanArchMvc.Infra.Ioc.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net7.0\CleanArchMvc.Infra.Ioc.pdb
-D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net7.0\ref\CleanArchMvc.Infra.Ioc.dll
-D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\bin\Debug\net7.0\CleanArchMvc.Infra.Ioc.runtimeconfig.json
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net7.0\CleanArchMvc.Infra.Ioc.genruntimeconfig.cache
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net7.0\ref\CleanArchMvc.Infra.Ioc.dll

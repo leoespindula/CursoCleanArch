@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\CleanArchMvc.WebUi.bundle.scp.css"
     },
     {
+      "Id": "D:\\Curso\\CursoCleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\wwwroot\\Images\\catalog.png",
+      "PackagePath": "staticwebassets\\Images\\catalog.png"
+    },
+    {
+      "Id": "D:\\Curso\\CursoCleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\wwwroot\\Images\\imageNotFound.webp",
+      "PackagePath": "staticwebassets\\Images\\imageNotFound.webp"
+    },
+    {
       "Id": "D:\\Curso\\CursoCleanArch\\CleanArchMvc\\CleanArchMvc.WebUi\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

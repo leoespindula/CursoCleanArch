@@ -8,7 +8,7 @@ namespace CleanArchMvc.Aplication.Products.Commands
         public int Id { get; set; }
         public ProductRemoveCommand(int id)
         {
-            Id = Id;
+            Id = id;
         }
     }
 }

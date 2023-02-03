@@ -310,6 +310,9 @@ D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Humaniz
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\MediatR.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\MediatR.Contracts.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -324,6 +327,8 @@ D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microso
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll

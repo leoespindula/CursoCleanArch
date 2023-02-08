@@ -1,4 +1,5 @@
-﻿using CleanArchMvc.Infra.Ioc;
+﻿using CleanArchMvc.Domain.Account;
+using CleanArchMvc.Infra.Ioc;
 
 namespace CleanArchMvc.WebUi
 {
@@ -15,9 +16,13 @@ namespace CleanArchMvc.WebUi
             services.AddControllersWithViews();
         }
 
-        public void Configure(WebApplication app, IWebHostEnvironment environment) 
+        public void Configure(WebApplication app, IWebHostEnvironment environment, ISeedUserRoleInitial seedUserRoleInitial) 
         {
-            if (!app.Environment.IsDevelopment())
+            if (environment.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+            else 
             {
                 app.UseExceptionHandler("/Home/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
@@ -28,7 +33,10 @@ namespace CleanArchMvc.WebUi
             app.UseStaticFiles();
 
             app.UseRouting();
+            seedUserRoleInitial.SeedRoles();
+            seedUserRoleInitial.SeedUsers();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(

@@ -57,7 +57,7 @@ namespace CleanArchMvc.Infra.Data.Identity
             }
         }
 
-        public void SeeRoles()
+        public void SeedRoles()
         {
             if (!_roleManager.RoleExistsAsync("User").Result)
             {

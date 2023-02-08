@@ -1,4 +1,6 @@
 using CleanArchMvc.WebUi;
+using CleanArchMvc.Infra.Ioc;
+using CleanArchMvc.Domain.Account;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,5 +9,6 @@ startup.ConfigureServices(builder.Services);
 
 var app = builder.Build();
 
-startup.Configure(app, app.Environment);
+var seedUserRoleInitial = builder.Services.BuildServiceProvider().GetService<ISeedUserRoleInitial>();
+startup.Configure(app, app.Environment, seedUserRoleInitial);
 app.Run();

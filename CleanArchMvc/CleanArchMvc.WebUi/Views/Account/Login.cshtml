@@ -1,5 +1,5 @@
 ﻿@model CleanArchMvc.WebUi.ViewModels.LoginViewModel
-<h2>Log in</h2>
+<h2>Login</h2>
 <div class="col-md-10">
     <form asp-controller="Account" asp-action="Login" method="post" class="form-horizontal">
 
@@ -20,11 +20,13 @@
                 <span asp-validation-for="Password" class="text-danger"></span>
             </div>
         </div>
+        <br />
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <button type="submit" class="btn btn-outline-dark">Log in</button>
+                <button type="submit" class="btn btn-outline-dark">Login</button>
             </div>
         </div>
+        
         <p>
             <a asp-action="Register">Registrar um nono usuário?</a>
         </p>

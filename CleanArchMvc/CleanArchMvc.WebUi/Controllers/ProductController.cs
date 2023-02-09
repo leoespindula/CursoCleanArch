@@ -1,12 +1,14 @@
 ﻿using CleanArchMvc.Aplication.DTOs;
 using CleanArchMvc.Aplication.Interfaces;
 using CleanArchMvc.Aplication.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.IdentityModel.Tokens;
 
 namespace CleanArchMvc.WebUi.Controllers
 {
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly IProductService _productService;

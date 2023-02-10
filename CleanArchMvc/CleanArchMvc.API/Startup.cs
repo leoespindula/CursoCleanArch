@@ -1,4 +1,5 @@
 ﻿using CleanArchMvc.Infra.Ioc;
+using Microsoft.OpenApi.Models;
 
 namespace CleanArchMvc.API
 {
@@ -12,10 +13,11 @@ namespace CleanArchMvc.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddInfrastructureAPI(Configuration);
+            services.AddInfrastructureJWT(Configuration);
             services.AddControllers();
 
             services.AddEndpointsApiExplorer();
-            services.AddSwaggerGen();
+            services.AddInfrastructureSwagger();
         }
         public void Configure(WebApplication app, IWebHostEnvironment enviroment)
         {
@@ -26,6 +28,9 @@ namespace CleanArchMvc.API
             }
 
             app.UseHttpsRedirection();
+            app.UseStatusCodePages();
+            app.UseRouting();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

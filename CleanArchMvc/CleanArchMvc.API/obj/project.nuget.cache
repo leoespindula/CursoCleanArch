@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z7INxGwyyS3YVQDAv0lD1QsMeZuiWQjCO37nP+kL67jGNEvyXJ64sR2z4HDhhEUD84fKTPK8XGHt6cmFYIxwxg==",
+  "dgSpecHash": "jbPqe/TJJQ6VFB78YvEFXrGBiotwXCu3rVHeM1Za8zCSvlNQvMZfHT9vuAo7FPg+reSFD5KvQV0g1sIulr2d/Q==",
   "success": true,
   "projectFilePath": "D:\\Curso\\CursoCleanArch\\CleanArchMvc\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.2\\microsoft.aspnetcore.authentication.jwtbearer.7.0.2.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.2\\microsoft.aspnetcore.cryptography.internal.7.0.2.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.2\\microsoft.aspnetcore.cryptography.keyderivation.7.0.2.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.2.0\\microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",
@@ -74,9 +75,9 @@
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\leonardo.espindula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\leonardo.espindula\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",

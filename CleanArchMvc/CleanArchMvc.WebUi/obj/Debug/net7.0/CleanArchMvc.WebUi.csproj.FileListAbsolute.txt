@@ -420,3 +420,8 @@ D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\refint\
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.pdb
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\CleanArchMvc.WebUi.genruntimeconfig.cache
 D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\obj\Debug\net7.0\ref\CleanArchMvc.WebUi.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Curso\CursoCleanArch\CleanArchMvc\CleanArchMvc.WebUi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
